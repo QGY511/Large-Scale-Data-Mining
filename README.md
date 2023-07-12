@@ -1,12 +1,12 @@
-# Large Scale Data Mining Project
+# Large-Scale Data Mining Project
 
-This repository contains projects related to large scale data mining. Our four main sub-projects include Classification, Data Clustering, Recommender System, Regression Analysis, and Twitter Data Analysis. 
+This repository contains projects related to large-scale data mining. Our four main sub-projects include Classification, Data Clustering, Recommender System, Regression Analysis, and Twitter Data Analysis. 
 
 ## Description
 
-1. **Classification**: This project focuses on applying various machine learning classification algorithms to predict the class of certain data points.
+1. **Classification**: This project applies various machine learning classification algorithms to predict the class of certain data points.
 
-2. **Data Clustering**: The aim of this project is to group similar items in our dataset using unsupervised machine learning clustering algorithms.
+2. **Data Clustering**: This project aims to visualize similar items in our dataset using unsupervised machine learning clustering algorithms.
 
 3. **Recommender System**: In this project, we build a system to suggest products to customers based on their past preferences.
    
@@ -19,8 +19,11 @@ This repository contains projects related to large scale data mining. Our four m
 ### Prerequisites
 
 - Python 3.x
-- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, nltk, tensorflow (Install these using pip)
+- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, nltk, tensorflow... (Install these using pip)
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn nltk tensorflow
+pip install pandas numpy scikit-learn matplotlib seaborn nltk tensorflow...
 ```
-### License
+### License and Permission
+
+Project instructions and datasets are intentionally not posted.
+Do not use the code for any academic assignments that will violate academic integrity.
